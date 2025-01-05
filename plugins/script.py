@@ -35,13 +35,13 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/UploadLinkToFileBot)
+**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ])
 
-**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/NT_BOT_CHANNEL)
+**Cʜᴀɴɴᴇʟ** : [Bᴏᴛs]()
 
-**Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/LISA-KOREA/UPLOADER-BOT-V4)
+**Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](FIRST DONATE THEN CODE)
 
-**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [NT Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/NT_BOTS_SUPPORT)
+**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](COMMING SOON)
 
 **Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
 
@@ -49,7 +49,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 **Fʀᴀᴍᴇᴡᴏʀᴋ :** [Pʏʀᴏɢᴀᴍ 2.3.45](https://docs.pyrogram.org/)
 
-**Dᴇᴠᴇʟᴏᴘᴇʀ :** @LISA_FAN_LK
+**Dᴇᴠᴇʟᴏᴘᴇʀ :** @bimbo69
 """
 
 
