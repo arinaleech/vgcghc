@@ -273,18 +273,21 @@ async def youtube_dl_call_back(bot, update):
                         start_time
                     )
                 )
-            else:
-                logger.info("Did this happen? :\\")
+            
+             else:
+                logger.info("✅ " + custom_file_name)
+            
             end_two = datetime.now()
             time_taken_for_upload = (end_two - end_one).seconds
             try:
                 shutil.rmtree(tmp_directory_for_each_user)
                 os.remove(thumbnail)
-            except:
-                pass
-            await bot.edit_message_text(
-                text=Translation.AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS.format(time_taken_for_download, time_taken_for_upload),
-                chat_id=update.message.chat.id,
-                message_id=update.message.message_id,
-                disable_web_page_preview=True
+            except Exception as e:
+                logger.error(f"Error cleaning up: {e}")
+            
+            await update.message.edit_caption(
+                caption=Translation.AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS.format(time_taken_for_download, time_taken_for_upload)
             )
+            
+            logger.info(f"✅ Downloaded in: {time_taken_for_download} seconds")
+            logger.info(f"✅ Uploaded in: {time_taken_for_upload} seconds")   
