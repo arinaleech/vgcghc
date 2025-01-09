@@ -11,7 +11,7 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8074828263:AAG3fi-T5l9dZu4Auru995BvgjUP4_vrCrw")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7619169027:AAG33n3Em3vicp48ADx1_uE80bNZLcbZgSA")
     
     API_ID = int(os.environ.get("API_ID", "21894814"))
     
@@ -24,7 +24,7 @@ class Config(object):
     TG_MAX_FILE_SIZE = 2097152000
 
     # Add your premium user session or skip (4GB)
-    SESSION_STR = "BQFOFp4AkTE_40L1OSkae-VwGi66Y2zcLeczr9pvu_pqPK-5PdUyhVlHeopyf6ZkoQlwZwXSA1ZzQb8Q6YXqJBKeEmkdvGFtV2Oa95RIGUZ_BtxlHrA8iVfk6CWBlwbLd3XHYWtWXdJNUJgD5xrCQ0HJ3mlUpACeAMz1L15e5eFEBNeBDeHSiRT2AKUXia7E_YYDHOmgQ0uW9G8nzjkq-HUENsubLVZgjGs7IxZIVsLyR3Nkjj4fcA6VnLv7BDO_jIP24S-ZX-TmLhziNIk7e5NYFF2wffwBAhMESnsH_-1U6RGhXK8xGxb1L0-q3RMuJo1TPfuI4le0YBxTQveAXZfWvoTNQAAAAAHhTBnnAQ"
+    SESSION_STR = "BQFOFp4AZtjWNp7An3LRsDWNudDpjrsJbjCDbD8iuyV5cduNEnUGALXlLujMmMS5KwVlLd_z7UMn5VjKDfhl4vLCcXYI8VcCgPPpMdY3wi-zl6u8-Vojgyg7ifpAoVqg9D2XqjhVXWgX5Y_Ce3fCxaOTnoknwaNsW9_ZeVN2uIbVV3WkPijc6xO1-V5Xs96i_xzoCbOHwBd5E_qNOVRywzfpda20lGAYbuBLKgUoQzgiakBKM-Kjye8UxzCexC8S28hdEbbjQjfccjEu5RWCPsc4oZlwqk2nZrQ9swA3LeNJCRcYWdbAv6_Gh49EMtXd8pgnKeLa2CSuLe2ZDRcjqtff1seymwAAAAHGI0sDAQ"
     
     FREE_USER_MAX_FILE_SIZE = 2097152000
     
