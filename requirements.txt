@@ -6,7 +6,7 @@ Pillow
 pyrofork
 requests
 tgcrypto
-yt-dlp==2025.1
+yt-dlp
 olefile
 motor
 pymongo==3.12.0
