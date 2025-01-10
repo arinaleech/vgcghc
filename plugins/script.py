@@ -35,13 +35,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ])
-
-**Cʜᴀɴɴᴇʟ** : [Bᴏᴛs]()
-
-**Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](FIRST DONATE THEN CODE)
-
-**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](COMMING SOON)
+**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ]
 
 **Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
 
